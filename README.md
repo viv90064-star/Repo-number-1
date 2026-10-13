@@ -21,7 +21,8 @@ Technologies Used:-
 
 
 
-⁠``` <!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>Student Learning Portal</title>
