@@ -9,6 +9,7 @@ Technologies Used:-
 1.⁠ ⁠HTML
 2.⁠ ⁠CSS
 3.⁠ ⁠JavaScript
+
 [The website of Python] (https://www.python.org/)
 
 
@@ -20,7 +21,7 @@ Technologies Used:-
 
 
 
-⁠ <!DOCTYPE html>
+⁠``` <!DOCTYPE html>
 <html lang="en">
 <head>
     <title>Student Learning Portal</title>
@@ -30,6 +31,7 @@ Technologies Used:-
     <p>Learn, practice, and grow!</p>
 </body>
 </html>
+```
 
 >Learning Quote:
 >"With Great Power comes Great Responsibility" - Uncle Ben
